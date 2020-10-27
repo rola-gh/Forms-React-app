@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Grid from 'react-css-grid'
-// import { faGoogle , faTwitter , faLinkedIn , faGithub} from "@fortawesome/free-solid-svg-icons";
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 import Vector from '../../img/Vector.svg';
 import eyeSlash from '../../img/eyeSlash.svg';
 import google from '../../img/google.png';
@@ -17,8 +16,9 @@ class Form extends Component{
         email: "",
         password: "",
         isPassShow:false,
-    };
+        score: 'null'
 
+    };
 
     handleInputChange = e => {
         const target = e.target;
@@ -41,6 +41,7 @@ class Form extends Component{
         const {isPassShow} = this.state;
         this.setState({isPassShow : !isPassShow})
     };
+
 
     render() {
         const {isPassShow} = this.state;
