@@ -13,15 +13,17 @@ function SingUp() {
     return (
         <>
             <Grid width={320}>
-            <aside>
-                <Logo className='logo' />
-                <br/>
-                <Qoutes className='quot'/>
-                <img src={scene} alt="scene" />
-            </aside>
-            <section>
-                <Form/>
-            </section>
+                <aside>
+                    <Logo className='logo' />
+                    <br/>
+                    <Qoutes className='quot'/>
+                    <div className={'right-img'}>
+                        <img src={scene} alt="scene" />
+                    </div>
+                </aside>
+                <section>
+                    <Form/>
+                </section>
             </Grid>
         </>
     );

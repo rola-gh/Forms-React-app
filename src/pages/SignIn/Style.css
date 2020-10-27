@@ -1,0 +1,11 @@
+.leftSide{
+    background: url("../../img/Group1.svg");
+    background-size: cover;
+}
+.logo{
+    position: absolute;
+    width: 439px;
+    height: 103px;
+    left: 80px;
+    top: 68px;
+}

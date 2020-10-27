@@ -2,27 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af72bef0-4f70-4df3-b5d0-a7be62136516" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Back/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Checkbox/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Input/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Qoutes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Qoutes/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignIn/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignIn/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignIn/leftSide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignIn/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignUp/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignUp/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignUp/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Qoutes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Qoutes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Qoutes/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Qoutes/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Vector.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/Vector.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/scene.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/scene.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/SignIn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignIn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/SignIn/leftSide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/SignIn/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignIn/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/SignUp/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignUp/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/SignUp/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignUp/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/SignUp/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignUp/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,11 +27,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="336">
+              <caret line="170" column="1" lean-forward="true" selection-start-line="170" selection-start-column="1" selection-end-line="170" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Logo/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Qoutes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -50,50 +63,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/SignUp/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="614">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/@fortawesome/react-fontawesome/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="218">
-                <caret line="268" column="38" lean-forward="true" selection-start-line="268" selection-end-line="269" />
-                <folding>
-                  <element signature="e#0#25#0" expanded="true" />
-                  <element signature="e#0#59#0" expanded="true" />
-                  <element signature="e#0#104#0" expanded="true" />
-                  <element signature="e#0#25#0" expanded="true" />
-                  <element signature="e#0#25#0" expanded="true" />
-                  <element signature="e#0#64#0" expanded="true" />
-                  <element signature="e#0#59#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/@fortawesome/free-solid-svg-icons/index.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8217">
-              <caret line="454" column="35" lean-forward="true" selection-start-line="454" selection-start-column="35" selection-end-line="454" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -101,43 +75,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Qoutes/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="396">
+              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Qoutes/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Logo/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="66" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Form.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+            <state relative-caret-position="614">
+              <caret line="68" column="6" lean-forward="true" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
               <folding>
-                <element signature="e#179#244#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,24 +112,28 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/pages/SignUp/leftSide.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/Back/index.js" />
         <option value="$PROJECT_DIR$/src/fontawesome.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/pages/SignUp/style.css" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/pages/SignIn/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/SignIn/Style.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/Logo/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/SignUp/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Qoutes/style.css" />
-        <option value="$PROJECT_DIR$/src/pages/SignUp/Style.css" />
         <option value="$PROJECT_DIR$/src/components/Qoutes/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Qoutes/style.css" />
         <option value="$PROJECT_DIR$/src/pages/SignUp/Form.js" />
+        <option value="$PROJECT_DIR$/src/pages/SignUp/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/SignUp/Style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-59" />
-    <option name="y" value="11" />
-    <option name="width" value="1019" />
+    <option name="x" value="-60" />
+    <option name="y" value="10" />
+    <option name="width" value="1020" />
     <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -205,13 +159,6 @@
               <item name="forms-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="forms-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="forms-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Back" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="forms-app" type="b2602c69:ProjectViewProjectNode" />
@@ -300,17 +247,17 @@
       <option name="presentableId" value="Default" />
       <updated>1603650743414</updated>
       <workItem from="1603650756469" duration="592000" />
-      <workItem from="1603659268042" duration="27873000" />
+      <workItem from="1603659268042" duration="41541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28465000" />
+    <option name="totallyTimeSpent" value="42133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13624161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -324,15 +271,15 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45184135" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.36402267" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" visible="true" weight="0.36402267" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="JSON Viewer" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13624161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -347,7 +294,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.45184135" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.08923513" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -358,9 +305,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pages/SignIn/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Buttons/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -401,33 +345,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/@fortawesome/free-solid-svg-icons/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8217">
-          <caret line="454" column="35" lean-forward="true" selection-start-line="454" selection-start-column="35" selection-end-line="454" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/SignUp/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/@fortawesome/react-fontawesome/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -447,24 +364,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Style.css">
+    <entry file="file://$PROJECT_DIR$/yarn-error.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Qoutes/style.css">
+    <entry file="file://$PROJECT_DIR$/node_modules/@fortawesome/free-solid-svg-icons/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="-8217">
+          <caret line="454" column="35" lean-forward="true" selection-start-line="454" selection-start-column="35" selection-end-line="454" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Qoutes/index.js">
+    <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="88">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SignIn/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SignIn/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -473,21 +421,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Logo/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="66" />
+        <state relative-caret-position="176">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Qoutes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Qoutes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Form.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        <state relative-caret-position="614">
+          <caret line="68" column="6" lean-forward="true" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
           <folding>
-            <element signature="e#179#244#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SignUp/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="170" column="1" lean-forward="true" selection-start-line="170" selection-start-column="1" selection-end-line="170" selection-end-column="1" />
         </state>
       </provider>
     </entry>
