@@ -22,7 +22,7 @@
     /*text-align: right;*/
     /*width: 320px;*/
     /*height: 418px;*/
-    margin-left: 370px;
+    margin-left: 420px;
     margin-top: -190px;
     max-width: 37%;
 }
@@ -148,7 +148,7 @@
 }
 
 .last-p {
-
+    margin-top: -4px;
     color: #696F79;
     font-weight: bold;
     font-size: .875rem;
@@ -157,8 +157,18 @@
 a {
     color: #1565D8;
 }
-
+.showPass{
+    position: relative;
+    top: -37px;
+    margin-left: auto;
+    /* text-align: left; */
+    left: -14px;
+    max-width: 22px;
+}
 @media (max-width: 567px) {
+    .right-img img {
+        margin-left: 220px;
+    }
     .socialWrapper {
         width: 100%;
     }

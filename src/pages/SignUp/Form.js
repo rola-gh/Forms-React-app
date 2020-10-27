@@ -86,7 +86,7 @@ class Form extends Component{
                             name={'password'}
                             value={this.state.password}
                             onChange={this.handleInputChange} />
-                        <img src={isPassShow ? eyeSlash : Vector} alt=" " onClick={this.passwordVisibility} />
+                        <img src={isPassShow ? eyeSlash : Vector} alt=" " onClick={this.passwordVisibility} className={'showPass'}/>
 
                     </label>
 

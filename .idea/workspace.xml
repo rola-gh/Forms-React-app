@@ -3,18 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="af72bef0-4f70-4df3-b5d0-a7be62136516" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Qoutes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Qoutes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Qoutes/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Qoutes/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Vector.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/Vector.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/scene.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/scene.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/SignIn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignIn/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/SignIn/leftSide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/SignIn/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignIn/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/SignUp/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignUp/Form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/SignUp/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignUp/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/SignUp/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignUp/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="170" column="1" lean-forward="true" selection-start-line="170" selection-start-column="1" selection-end-line="170" selection-end-column="1" />
+            <state relative-caret-position="176">
+              <caret line="159" column="2" lean-forward="true" selection-start-line="159" selection-start-column="2" selection-end-line="159" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -84,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Form.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="68" column="6" lean-forward="true" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+            <state relative-caret-position="49">
+              <caret line="86" column="44" lean-forward="true" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -124,8 +114,8 @@
         <option value="$PROJECT_DIR$/src/components/Logo/index.js" />
         <option value="$PROJECT_DIR$/src/components/Qoutes/index.js" />
         <option value="$PROJECT_DIR$/src/components/Qoutes/style.css" />
-        <option value="$PROJECT_DIR$/src/pages/SignUp/Form.js" />
         <option value="$PROJECT_DIR$/src/pages/SignUp/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/SignUp/Form.js" />
         <option value="$PROJECT_DIR$/src/pages/SignUp/Style.css" />
       </list>
     </option>
@@ -247,15 +237,16 @@
       <option name="presentableId" value="Default" />
       <updated>1603650743414</updated>
       <workItem from="1603650756469" duration="592000" />
-      <workItem from="1603659268042" duration="41541000" />
+      <workItem from="1603659268042" duration="42600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42133000" />
+    <option name="totallyTimeSpent" value="43192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13624161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -439,23 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Qoutes/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Form.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="68" column="6" lean-forward="true" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/SignUp/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="614">
@@ -466,10 +440,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Qoutes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="86" column="44" lean-forward="true" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/SignUp/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="170" column="1" lean-forward="true" selection-start-line="170" selection-start-column="1" selection-end-line="170" selection-end-column="1" />
+        <state relative-caret-position="176">
+          <caret line="159" column="2" lean-forward="true" selection-start-line="159" selection-start-column="2" selection-end-line="159" selection-end-column="2" />
         </state>
       </provider>
     </entry>
